@@ -91,7 +91,7 @@ input {
   margin-bottom: 1rem;
 }
 
-.submit{
+.submit {
   display: flex;
   justify-content: end;
 }
@@ -99,5 +99,3 @@ input {
 .submit-btn {
   font-size: 2rem;
 }
-
-
