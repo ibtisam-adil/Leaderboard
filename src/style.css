@@ -1,3 +1,103 @@
-h1 {
-  color: aqua;
+* {
+  margin: 0;
+  padding: 0;
 }
+
+.hero {
+  padding: 2rem;
+}
+
+.wrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+.wrap-1 {
+  padding: 2rem;
+  width: 55%;
+}
+
+.main-heading {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.recent-scores {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  width: 80%;
+}
+
+.refresh {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.h-2 {
+  font-size: 3rem;
+}
+
+.leaderboard {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid;
+  width: 80%;
+}
+
+.leaderboard > :nth-child(even) {
+  background-color: lightgray;
+}
+
+.data {
+  display: flex;
+  padding: 5px 10px;
+  font-size: 1.5rem;
+}
+
+.wrap-2 {
+  padding: 2rem;
+  width: 40%;
+}
+
+.add-scores {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-name {
+  margin-top: 2rem;
+}
+
+.input-wrap {
+  display: flex;
+  flex-direction: column;
+  /* width: 73%; */
+}
+
+.input-fields {
+  display: flex;
+  flex-direction: column;
+  /* width: 73%; */
+}
+
+input {
+  font-size: 1.4rem;
+  padding: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.submit{
+  display: flex;
+  justify-content: end;
+}
+
+.submit-btn {
+  font-size: 2rem;
+}
+
+
