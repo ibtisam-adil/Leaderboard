@@ -76,12 +76,14 @@
 .input-wrap {
   display: flex;
   flex-direction: column;
+
   /* width: 73%; */
 }
 
 .input-fields {
   display: flex;
   flex-direction: column;
+
   /* width: 73%; */
 }
 
@@ -91,13 +93,14 @@ input {
   margin-bottom: 1rem;
 }
 
-.submit{
+.submit {
   display: flex;
   justify-content: end;
 }
 
 .submit-btn {
   font-size: 2rem;
+  border: 1px solid;
+  padding: 0.5rem;
+  cursor: pointer;
 }
-
-
