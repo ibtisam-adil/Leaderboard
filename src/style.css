@@ -76,12 +76,14 @@
 .input-wrap {
   display: flex;
   flex-direction: column;
+
   /* width: 73%; */
 }
 
 .input-fields {
   display: flex;
   flex-direction: column;
+
   /* width: 73%; */
 }
 
