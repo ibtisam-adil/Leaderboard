@@ -98,4 +98,7 @@ input {
 
 .submit-btn {
   font-size: 2rem;
+  border: 1px solid;
+  padding: 0.5rem;
+  cursor: pointer;
 }
