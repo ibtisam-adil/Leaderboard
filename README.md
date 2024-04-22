@@ -50,7 +50,6 @@ This is a simple leaderboard list app that allows users to create a new game and
 - **It has CSS**
 - **It has javascript**
 - **Responsive design**
-- **Feature speakers part is fully made dynamically by JavaScript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
