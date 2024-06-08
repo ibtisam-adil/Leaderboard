@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🎬 Portfolio <a name="about-project"></a>
+# 🎬 LeaderBoard <a name="about-project"></a>
 
 This is a simple leaderboard list app that allows users to create a new game and add scores to that game. The app uses the Leaderboard API service to send and receive data from/to the API.
 
